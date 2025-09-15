@@ -63,4 +63,7 @@ Screenshots of the app modules tested:
 - Hands-on experience in **test documentation** and portfolio building.
 
 ---
-
+## 📌 Next Steps
+- Expand test coverage for **PRAM app wellness modules**.
+- Write **API test cases** if backend endpoints are exposed.
+- Automate smoke tests using **Selenium/Appium** (future scope).
