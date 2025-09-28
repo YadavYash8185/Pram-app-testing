@@ -53,6 +53,7 @@ Screenshots of the app modules tested:
 - **Mobile App (Android)** → Manual exploratory testing
 - **Screenshots** → Visual documentation of issues
 - **GitHub** → Portfolio & version control
+- Latest Tools Used
 
 ---
 
